@@ -1,0 +1,20 @@
+.main-div {
+  background-color: hsla(0, 42%, 35%, 0.336);
+  justify-content: center;
+  height: 100vh;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+.list-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.task {
+  margin: 20px;
+  border: #e020207a;
+  border-radius: 5px;
+  align-items: center;
+}
